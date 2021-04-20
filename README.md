@@ -1,4 +1,4 @@
- am a junior in Computer Engineering At KMUTT. Now  I  interest  Android development As I believe the software will develop quality of life for the better 
+ I am a junior in Computer Engineering At KMUTT. Now  I  interest  Android development As I believe the software will develop quality of life for the better 
  and Android is the important key due to It’s the most used and accessible mobile operating system in the world.
 
 <!---
